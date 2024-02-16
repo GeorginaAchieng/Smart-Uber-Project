@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "654163092415",
+    "project_id": "uber-f3ab4",
+    "storage_bucket": "uber-f3ab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654163092415:android:59694c186021e55962370a",
+        "android_client_info": {
+          "package_name": "com.ist.loginscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx0lWtvkVEkFTKH-P4F0mvOa6Nex8b2Y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654163092415:android:abf47e0b1e34116f62370a",
+        "android_client_info": {
+          "package_name": "com.simcoder.uber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx0lWtvkVEkFTKH-P4F0mvOa6Nex8b2Y0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
