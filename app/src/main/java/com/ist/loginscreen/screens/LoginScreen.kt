@@ -6,6 +6,7 @@ import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Done
 import androidx.compose.material.icons.filled.Person
 import androidx.compose.material3.Surface
 import androidx.compose.runtime.Composable
@@ -35,7 +36,7 @@ fun LoginScreen() {
             UserFieldComponent(labelValue = "g@g.com", icon = Icons.Default.Person, label = "Email" )
 //            UserFieldComponent(labelValue = "Username", icon = Icons.Default.Person)
             UserFieldComponent(labelValue = "Password", icon = Icons.Default.Person, label = "Password" )
-            ButtonComponent(value = "Login")
+            ButtonComponent(value = "Login", icon =Icons.Default.Done)
 
         }
     }
